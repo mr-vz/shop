@@ -1,5 +1,5 @@
 .appContainer {
-  width: 1308px;
+  width: 1208px;
   padding: 0 66px;
   margin: 0 auto;
 }
@@ -51,7 +51,7 @@
 .card h4 {
   font-size: 18px;
   text-align: center;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   color: #223263;
   padding: 0 36px;
   flex: 1;
@@ -124,7 +124,7 @@
   font-size: 24px;
   font-weight: 500;
   line-height: 30px;
-  font-weight: 500px;
+  /*font-weight: 500px;*/
   margin: 0 0 7px 0;
 }
 
@@ -224,7 +224,7 @@
   font-size: 24px;
   font-weight: 500;
   line-height: 30px;
-  font-weight: 500px;
+  /*font-weight: 500px;*/
   margin: 0 0 30px 0;
 }
 
